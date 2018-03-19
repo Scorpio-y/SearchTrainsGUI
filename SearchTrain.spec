@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['SearchTrain.py'],
-             pathex=['C:\\Users\\Scorpio\\Desktop\\SearchTrain'],
+             pathex=['E:\\GitHub\\SearchTrainsGUI'],
              binaries=[],
              datas=[],
              hiddenimports=[],
